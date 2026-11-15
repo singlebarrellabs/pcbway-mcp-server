@@ -43,11 +43,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nabheet/pcbway-mcp-server.git"
+    "url": "git+https://github.com/singlebarrellabs/pcbway-mcp-server.git"
   },
-  "homepage": "https://github.com/nabheet/pcbway-mcp-server#readme",
+  "homepage": "https://github.com/singlebarrellabs/pcbway-mcp-server#readme",
   "bugs": {
-    "url": "https://github.com/nabheet/pcbway-mcp-server/issues"
+    "url": "https://github.com/singlebarrellabs/pcbway-mcp-server/issues"
   },
   "engines": {
     "node": ">=24"
@@ -65,7 +65,7 @@
     "typescript": "^7.0.2",
     "vitest": "^5.0.2"
   },
-  "author": "Nabheet S. Sandhu",
+  "author": "Single Barrel Labs",
   "publishConfig": {
     "access": "public"
   },
