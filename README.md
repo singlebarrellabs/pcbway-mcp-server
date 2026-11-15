@@ -1,8 +1,8 @@
 # pcbway-mcp-server
 
-[![CI](https://github.com/nabheet/pcbway-mcp-server/actions/workflows/ci.yml/badge.svg)](https://github.com/nabheet/pcbway-mcp-server/actions/workflows/ci.yml)
+[![CI](https://github.com/singlebarrellabs/pcbway-mcp-server/actions/workflows/ci.yml/badge.svg)](https://github.com/singlebarrellabs/pcbway-mcp-server/actions/workflows/ci.yml)
 [![npm](https://img.shields.io/npm/v/pcbway-mcp-server)](https://www.npmjs.com/package/pcbway-mcp-server)
-[![License](https://img.shields.io/github/license/nabheet/pcbway-mcp-server)](LICENSE)
+[![License](https://img.shields.io/github/license/singlebarrellabs/pcbway-mcp-server)](LICENSE)
 
 **Get instant PCB manufacturing and assembly quotes, place orders, and track fabrication —
 all from your AI coding assistant.** This MCP server gives you full access to the PCBWay
@@ -283,7 +283,7 @@ List cities with postal codes for a country/state.
 ## Development
 
 ```bash
-git clone https://github.com/nabheet/pcbway-mcp-server.git
+git clone https://github.com/singlebarrellabs/pcbway-mcp-server.git
 cd pcbway-mcp-server
 npm install
 npm run build
